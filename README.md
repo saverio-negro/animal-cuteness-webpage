@@ -1,4 +1,4 @@
-# Animals Cuteness Webpage
+# Animal Cuteness Webpage
 
 <img src="./images/cute-cat.avif" width="30%" height="50%"/>
 
