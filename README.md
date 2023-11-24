@@ -1,8 +1,9 @@
 # Animals Cuteness Webpage
 
-<img src="./images/cute-cat.avif" width="60%" height="80%"/>
+<img src="./images/cute-cat.avif" width="40%" height="60%"/>
 
-<p>Image Source: <a href="https://unsplash.com/photos/brown-tabby-kitten-sitting-on-floor-nKC772R_qog">Unsplash.com by <a href="https://unsplash.com/@e_d_g_a_r">Edgar</a></a></p>
+<p>Image Source: <a href="https://unsplash.com/photos/brown-tabby-kitten-sitting-on-floor-nKC772R_qog">Unsplash.com</a></p>
+<p>Photographer: <a href="https://unsplash.com/@e_d_g_a_r">Edgar</a></p>
 
 <h3>What's the Purpose of such a Webpage?</h3>
 
