@@ -2,7 +2,7 @@
 
 <h3>What's the Purpose of such a Webpage?</h3>
 
-<p>The idea first came out of my feelings for my beloved one, my Cassy.</p>
+<p>The idea first came out as an inspiration being born to my feelings for my beloved one, my Cassy.</p>
 
 <p>I thought I'd resemble the gist of cuteness that she conveys to me via cute animals.</p>
 
